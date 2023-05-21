@@ -1,0 +1,4 @@
+-- Setting Admin
+
+cd D:\xampp8\apache\bin\
+.\htpasswd.exe -c -m .htpasswd admin

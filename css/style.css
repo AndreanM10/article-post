@@ -1,0 +1,27 @@
+* {
+  font-family: 微軟正黑體;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.bg-my-blue {
+  background-color: #3d81bb;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  position: relative;
+}
+
+a.logout {
+  background-color: #ffffff;
+  color: #3d81bb;
+  margin-left: 1em;
+  border-radius: 25%;
+}
